@@ -13,10 +13,10 @@ const stack = {
 <table style="overflow-x: hidden">
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra3d0r&layout=donut&theme=github_dark" />
+      <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra3d0r&layout=compact&theme=github_dark" />
     </td>
     <td>
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ra3d0r&theme=github_dark" alt="webDev's Github stats" />
+      <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ra3d0r&theme=github_dark" alt="webDev's Github stats" />
     </td>
   </tr>
 </table>
