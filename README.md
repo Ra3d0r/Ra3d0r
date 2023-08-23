@@ -9,14 +9,5 @@ const stack = {
   tools: [React, Redux, Node.js, Tailwind, Pug, SCSS, Webpack, Gulp, Git, npm],
 }
 ```
+<img width="100%" height="220px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra3d0r&layout=compact&theme=github_dark" />
 
-<table style="overflow-x: hidden">
-  <tr>
-    <td>
-      <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra3d0r&layout=compact&theme=github_dark" />
-    </td>
-    <td>
-      <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ra3d0r&theme=github_dark" alt="webDev's Github stats" />
-    </td>
-  </tr>
-</table>
