@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Sergey Fromenko.
+### 👋 Hello there! I'm Sergey Fomenko
 
 <img  height="50px" alt="Developer" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer" />
 
@@ -11,7 +11,7 @@
 const stack = {
   code: [JavaScript, TypeScript, HTML, CSS],
   tools: [React, Redux, Node.js, Tailwind, Pug, SCSS, Webpack, Gulp, Git, npm],
-}
+};
 ```
 ---
 
